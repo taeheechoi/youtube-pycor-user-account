@@ -22,7 +22,7 @@ The intention of this project is to help developers to automate user creation an
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/taeheechoi/youtube-python-epicor-automation-user-account.git
+   git clone https://github.com/taeheechoi/youtube-python-epicor-automation-user-account.git .
    ```
 2. Create a virtual environment and activate it
    ```sh

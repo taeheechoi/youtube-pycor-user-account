@@ -1,3 +1,0 @@
-2022-08-14 09:56:57,146 User account sperson has been disabled
-2022-08-14 10:16:08,546 User account femployee is not created due to error
-2022-08-14 10:17:52,860 User account femployee has been created

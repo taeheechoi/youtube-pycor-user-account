@@ -80,7 +80,7 @@ def create_data(url, data):
     if response.status_code == 201:
         logging.info(f'User account {user_name} has been created')
     else:
-        logging.info(f'User account {user_name} is not created due to error')
+        logging.info(f'User account {user_name} is not created due to {response.content.decode()}')
 
 
 def update_data(url, data):
@@ -93,7 +93,7 @@ def update_data(url, data):
     if response.status_code == 204:
         logging.info(f'User account {user_name} has been disabled')
     else:
-        logging.info(f'User account {user_name} is not disabled due to error')
+        logging.info(f'User account {user_name} is not disabled due to {response.content.decode()}')
 
 
 def create_user_account(employee):
