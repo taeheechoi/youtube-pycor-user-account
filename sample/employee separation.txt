@@ -1,4 +1,4 @@
 SUBJECT: Employee Separation
 
-Name: Good Bye
+Name: FirstName LastName
 End Date: 8/16/2022
