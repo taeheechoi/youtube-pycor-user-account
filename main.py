@@ -115,7 +115,7 @@ def disable_user_account(user_name):
 
     response = get_data(URL)
 
-    if response and response.get('UserDisabled') == False:
+    if response:
         payload = {
             "UserID": user_name,
             "UserDisabled": True
