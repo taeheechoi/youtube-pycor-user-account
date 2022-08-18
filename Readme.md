@@ -15,14 +15,14 @@ The intention of this project is to help developers to automate user creation an
 ### Prerequisites
 
 - Python 3
-- Python Packages: requests (2.28.1), Python-dotenv(0.20.0)
+- Python Packages: requests (2.28.1), Python-dotenv (0.20.0)
 - VS Code
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/taeheechoi/youtube-python-epicor-automation-user-account.git .
+   git clone https://github.com/taeheechoi/youtube-pycor-user-account.git .
    ```
 2. Create a virtual environment and activate it
    ```sh
@@ -42,7 +42,6 @@ The intention of this project is to help developers to automate user creation an
    EPICOR_PASSWORD=Epicor user password
    EPICOR_API_URL=https://Server/Environment/api/v1
    ```
-
 
 ## Acknowledgments
 
