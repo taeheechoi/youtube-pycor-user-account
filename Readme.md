@@ -26,8 +26,8 @@ The intention of this project is to help developers to automate user creation an
    ```
 2. Create a virtual environment and activate it
    ```sh
-   python3 -m venv venv
-   source venv/bin/activate
+   python -m venv venv
+   venv\script\activate
    ```
 3. Install packages
    ```sh
