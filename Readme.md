@@ -27,7 +27,7 @@ The intention of this project is to help developers to automate user creation an
 2. Create a virtual environment and activate it
    ```sh
    python -m venv venv
-   venv\script\activate
+   venv\scripts\activate
    ```
 3. Install packages
    ```sh
@@ -42,7 +42,12 @@ The intention of this project is to help developers to automate user creation an
    EPICOR_PASSWORD=Epicor user password
    EPICOR_API_URL=https://Server/Environment/api/v1
    ```
+5. Create log folder for logging results
 
+6. Update user_account.bat
+   ```sh
+   C:\user-account\venv\Scripts\python.exe main.py
+   ```
 ## Acknowledgments
 
 - [How to read emails in python](https://www.techgeekbuzz.com/blog/how-to-read-emails-in-python/)
