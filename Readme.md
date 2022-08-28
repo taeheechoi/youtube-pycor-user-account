@@ -19,6 +19,7 @@ The intention of this project is to help developers to automate user creation an
 - VS Code
 
 ### Installation
+[YouTube] https://youtu.be/9oYPj-bA60s
 
 1. Clone the repo
    ```sh
