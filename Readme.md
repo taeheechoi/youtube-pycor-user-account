@@ -49,8 +49,7 @@ The intention of this project is to help developers to automate user creation an
    ```sh
    C:\user-account\venv\Scripts\python.exe main.py
    ```
-- [Video](https://youtu.be/zVd9eO2gMYg)
-   
+ 
 ## Acknowledgments
 
 - [How to read emails in python](https://www.techgeekbuzz.com/blog/how-to-read-emails-in-python/)
